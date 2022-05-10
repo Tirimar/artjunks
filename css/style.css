@@ -15,7 +15,7 @@ body {
 .list1_main {
   display: flex;
   justify-content: center;
-  background: url("../../img/background.jpg") 0 0/cover no-repeat;
+  background: url("../img/background.jpg") 0 0/cover no-repeat;
 }
 
 .list1 {
