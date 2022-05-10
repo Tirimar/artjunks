@@ -269,6 +269,13 @@ h2 {
   font-size: 18px;
   line-height: 30px;
   }
+  .content__info {
+    display: flex;
+    flex-direction: column;
+    max-width: 748px;
+    margin-left: 27px;
+    margin-top: 160px;
+}
 }
 
 /*# sourceMappingURL=style.css.map */
